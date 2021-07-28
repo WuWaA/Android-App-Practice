@@ -3,4 +3,7 @@
     <string name="main_info">Goodbye World!</string>
     <string name="top_text">Very Test</string>
     <string name="button_text">Roll</string>
+    <string name="dice_description">Dice</string>
+    <string name="activity_switch_roll_dice">Roll Dice</string>
+    <string name="activity_switch_tip_calculator">Tip Calculator</string>
 </resources>
